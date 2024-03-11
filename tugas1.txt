@@ -1,0 +1,2 @@
+git merupakan sistem kontrol versi untuk melacak perubahan dalam komputer selama pengembangan perangkat lunak yang 
+memungkinkan pekerja proyek bekerja secara bersamaan.
