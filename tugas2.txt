@@ -1,0 +1,2 @@
+perintah git yang digunakan untuk membuat repository baru diantaranya git config, git init, git status, git add,
+git checkout, git branch, git push
